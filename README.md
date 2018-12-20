@@ -14,3 +14,5 @@ Lab 7--NOT MY NETWORK. This file was created by Alexander Rush to do machine tra
 Lab 8--WGAN. Implemented a Wassertein GAN to generate faces from the celebrity face dataset used on the discriminator. Not extremely successful.
 
 Lab 9--Deep Reinforcement Learning PPO network. Used the Gym API to create an environment that I trained the network to choose policies for.
+
+Final--Built a GAN to generate realistic looking policies for auto insurance. 
